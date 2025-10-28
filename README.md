@@ -1,3 +1,5 @@
+copy this code
+
     let buttons = [...document.querySelectorAll('.user-blocking-btn')].filter(b => b.textContent.trim() === 'Unblock');
     let done = 0;
     let limit = 200; // change this to how many people you want to unblock but roblox might have a limit on how many you can unblock at once (50) so you need to refresh page and restart.
