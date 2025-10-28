@@ -36,9 +36,9 @@
         }
 
         await new Promise(r => setTimeout(r, 0)); // delay
-      }
+              }
 
-      console.log(`FINISHED ! Unblocked ${done} users.`);
-    }
-
-    unblockall();
+              console.log(`FINISHED ! Unblocked ${done} users.`);
+            }
+        
+            unblockall();
