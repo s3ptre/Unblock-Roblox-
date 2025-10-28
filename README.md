@@ -35,7 +35,7 @@
           console.log(`Couldn't unblock : ${display} (${handle})`);
         }
 
-        await new Promise(r => setTimeout(r, 0)); // delay
+        await new Promise(r => setTimeout(r, 100)); // delay
               }
 
               console.log(`FINISHED ! Unblocked ${done} users.`);
