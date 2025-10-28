@@ -3,7 +3,8 @@
 3. Press F12 on your keyboard OR right click into anything and click "inspect" OR press CTRL + SHIFT + i
 4. GO into the Console tab in the dev tool. (dev tool is what you opened in the step 3.)
 5. Paste the code you just copied in the console and press ENTER
-(6. if you cannot paste, type "allow pasting" in the console, press enter and try to paste the script again.)
+6. (6. if you cannot paste, type "allow pasting" in the console, press enter and try to paste the script again.)
+
 
 
 
