@@ -1,3 +1,4 @@
+⚠️⚠️⚠️ YOU NEED TO HAVE ROBLOX LANGUAGE SET IN ENGLISH FOR THIS TO WORK ⚠️⚠️⚠️
 1. GO into https://www.roblox.com/my/account#!/privacy/BlockedUsers
 2. or roblox > settings > Privacy & content restrictions > Blocked users
 3. Press F12 on your keyboard OR right click into anything and click "inspect" OR press CTRL + SHIFT + i
